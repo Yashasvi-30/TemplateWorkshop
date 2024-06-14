@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  " I am a btech third year student at UPES Dehradun.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -33,8 +33,8 @@ const description =
 const skillsList = [
   "Web design",
   "User experience",
-  "Inclusive design",
-  "Focus group testing",
+  "Web Developer",
+  "Content writer",
   "Mobile user interfaces",
   "Graphic design",
 ];
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am a web developer and a content writer. I am passionate about web design and user experience. I am a creative person and I love to design mobile user interfaces. I am also a graphic designer. I am a hardworking person and I love to work in a team. I am a quick learner and I am always ready to learn new things. I am a good listener and I am always ready to help others. I am a good communicator and I am always ready to communicate with others. I am a good leader and I am always ready to lead a team. I am a good problem solver and I am always ready to solve problems. I am a good decision maker and I am always ready to make decisions. I am a good planner and I am always ready to plan things. I am a good organizer and I am always ready to organize things. I am a good time manager and I am always ready to manage time. I am a good team player and I am always ready to play in a team. I am a good motivator and I am always ready to motivate others. I am a good mentor and I am always ready to mentor others. I am a good coach and I am always ready to coach others. I am a good teacher and I am always ready to teach others. I am a good learner and I am always ready to learn new things. I am a good listener and I am always ready to listen to others. I am a good communicator and I am always ready to communicate with others. I am a good leader and I am always ready to lead a team. I am a good problem solver and I am always ready to solve problems. I am a good decision maker and I am always ready to make decisions. I am a good planner and I am always ready to plan things. I am a good organizer and I am always ready to organize things. I am a good time manager and I am always ready to manage time. I am a good team player and I am always ready to play in a team. I am a good motivator and I am always ready to motivate others. I am a good mentor and I am always ready to mentor others. I am a good coach and I am always ready to coach others. I am a good teacher and I am always ready to teach others. I am a good learner and I am always ready to learn new things. I am a good listener and I am always ready to listen to others.";
 
 const About = () => {
   return (

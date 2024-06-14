@@ -31,16 +31,16 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Learning Management System ",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Created a learning management system for a school in which students can login and see their courses and teachers can login and upload course material.",
+    url: "https://github.com/Yashasvi-30/Learning-Management-System-",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Amazon Clone",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Created an Amazon clone using React and Firebase. Users can login and add items to their cart.",
+    url: "https://yashasvi-30.github.io/AmazonClone/",
   },
   {
     title: "My Resume Site",
